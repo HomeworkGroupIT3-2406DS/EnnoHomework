@@ -1,5 +1,3 @@
-package labWork4;
-
 class Triangle extends Shape {
     private double a;
     private double b;
