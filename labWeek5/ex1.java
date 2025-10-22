@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 abstract class DataScience{
 	String name;
 	short years;
